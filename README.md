@@ -14,7 +14,7 @@ wrong.
 | `spell trainer.py` | The app. Pure Python 3 |
 | `words.json` | 325 IELTS words, each with an example sentence. |
 | `progress.json` | Created on first run. Your scores live here. |
-| `voices/` | Piper voice model (~60 MB), if installed. See below. |
+| `voices/` | Piper voice model (~60 MB). |
 
 Keep these in the same folder.
 
