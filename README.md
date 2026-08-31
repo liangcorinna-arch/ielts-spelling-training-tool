@@ -1,6 +1,6 @@
 # IELTS Spelling Trainer
 
-I was preparing my IELTS test and because I learn my English in a non-academy way, spelling turned out to be my weakness. I create this tool with the most mispelled words counted by IELTS in the json, to practise spelling, hope this can be helpful to you too.
+I was preparing my IELTS test and because I learn my English in a non-academy way, spelling turned out to be my weakness. I create this tool with the most mispelled words counted by IELTS in the json, it's not pretty but practical.
 
 A command-line dictation drill. The computer says a word, you type it, it tells
 you whether you were right and keeps score. Words you spell correctly three
@@ -11,7 +11,7 @@ wrong.
 
 | File | What it is |
 |---|---|
-| `spell trainer.py` | The app. Pure Python 3 - only needs a package if you want the Piper voice, see below. |
+| `spell trainer.py` | The app. Pure Python 3 |
 | `words.json` | 325 IELTS words, each with an example sentence. |
 | `progress.json` | Created on first run. Your scores live here. |
 | `voices/` | Piper voice model (~60 MB), if installed. See below. |
