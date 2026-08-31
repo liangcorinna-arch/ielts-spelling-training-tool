@@ -1,0 +1,2557 @@
+{
+ "version": 1,
+ "words": {
+  "obvious": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-17T13:11:08+00:00"
+  },
+  "apparent": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-19T08:33:02+00:00"
+  },
+  "certificate": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-29T11:01:09+00:00"
+  },
+  "believe": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T08:40:24+00:00"
+  },
+  "weird": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-25T01:24:28+00:00"
+  },
+  "souvenir": {
+   "correct": 3,
+   "wrong": 9,
+   "retired": true,
+   "last_seen": "2026-08-25T01:56:52+00:00"
+  },
+  "significant": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-29T11:09:45+00:00"
+  },
+  "remember": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-25T08:03:38+00:00"
+  },
+  "temporary": {
+   "correct": 3,
+   "wrong": 7,
+   "retired": true,
+   "last_seen": "2026-08-19T08:42:39+00:00"
+  },
+  "summarise": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-17T11:30:14+00:00"
+  },
+  "initial": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-25T01:23:59+00:00"
+  },
+  "fulfil": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-19T01:34:09+00:00"
+  },
+  "original": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-31T01:52:06+00:00"
+  },
+  "judgement": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-17T13:16:44+00:00"
+  },
+  "irrelevant": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-17T09:48:30+00:00"
+  },
+  "contribute": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-17T12:17:18+00:00"
+  },
+  "specific": {
+   "correct": 0,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-31T01:59:42+00:00"
+  },
+  "parliament": {
+   "correct": 3,
+   "wrong": 9,
+   "retired": true,
+   "last_seen": "2026-08-19T08:10:58+00:00"
+  },
+  "privilege": {
+   "correct": 3,
+   "wrong": 11,
+   "retired": true,
+   "last_seen": "2026-08-19T08:35:37+00:00"
+  },
+  "possession": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-17T11:05:25+00:00"
+  },
+  "develop": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-29T11:38:30+00:00"
+  },
+  "surroundings": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-17T13:08:16+00:00"
+  },
+  "mathematics": {
+   "correct": 3,
+   "wrong": 11,
+   "retired": true,
+   "last_seen": "2026-08-19T08:32:49+00:00"
+  },
+  "century": {
+   "correct": 3,
+   "wrong": 5,
+   "retired": true,
+   "last_seen": "2026-08-25T08:24:02+00:00"
+  },
+  "fascinating": {
+   "correct": 3,
+   "wrong": 13,
+   "retired": true,
+   "last_seen": "2026-08-24T08:35:22+00:00"
+  },
+  "throughout": {
+   "correct": 0,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-29T11:37:28+00:00"
+  },
+  "nuclear": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-17T13:18:42+00:00"
+  },
+  "tomorrow": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-26T06:38:44+00:00"
+  },
+  "management": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-17T11:00:52+00:00"
+  },
+  "increase": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-26T06:38:00+00:00"
+  },
+  "until": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T10:57:26+00:00"
+  },
+  "previous": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-19T08:19:58+00:00"
+  },
+  "consequence": {
+   "correct": 3,
+   "wrong": 7,
+   "retired": true,
+   "last_seen": "2026-08-25T01:57:22+00:00"
+  },
+  "millennium": {
+   "correct": 3,
+   "wrong": 8,
+   "retired": true,
+   "last_seen": "2026-08-17T13:11:35+00:00"
+  },
+  "establish": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-17T11:30:57+00:00"
+  },
+  "pronunciation": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-24T08:25:14+00:00"
+  },
+  "nuisance": {
+   "correct": 3,
+   "wrong": 5,
+   "retired": true,
+   "last_seen": "2026-08-19T01:37:13+00:00"
+  },
+  "which": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T08:12:37+00:00"
+  },
+  "library": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-17T11:38:24+00:00"
+  },
+  "literature": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-29T12:36:37+00:00"
+  },
+  "beginning": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-17T12:50:33+00:00"
+  },
+  "nevertheless": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-17T09:01:08+00:00"
+  },
+  "comparison": {
+   "correct": 3,
+   "wrong": 10,
+   "retired": true,
+   "last_seen": "2026-08-19T08:25:20+00:00"
+  },
+  "budget": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-17T12:57:08+00:00"
+  },
+  "yacht": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-19T01:48:58+00:00"
+  },
+  "variety": {
+   "correct": 3,
+   "wrong": 11,
+   "retired": true,
+   "last_seen": "2026-08-29T13:45:24+00:00"
+  },
+  "preliminary": {
+   "correct": 3,
+   "wrong": 8,
+   "retired": true,
+   "last_seen": "2026-08-29T13:46:46+00:00"
+  },
+  "experiment": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-17T08:33:45+00:00"
+  },
+  "biscuit": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-19T06:41:15+00:00"
+  },
+  "implication": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T08:10:05+00:00"
+  },
+  "guidance": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-17T12:55:28+00:00"
+  },
+  "assessment": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-25T08:09:47+00:00"
+  },
+  "however": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-31T01:34:20+00:00"
+  },
+  "convenient": {
+   "correct": 3,
+   "wrong": 13,
+   "retired": true,
+   "last_seen": "2026-08-31T01:55:54+00:00"
+  },
+  "attitude": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-19T06:39:09+00:00"
+  },
+  "preference": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-24T11:26:41+00:00"
+  },
+  "tremendous": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-25T08:07:26+00:00"
+  },
+  "volunteer": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-19T08:42:33+00:00"
+  },
+  "regardless": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-31T01:42:12+00:00"
+  },
+  "friend": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-17T13:09:59+00:00"
+  },
+  "hierarchy": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-19T04:13:30+00:00"
+  },
+  "experience": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-19T06:43:41+00:00"
+  },
+  "suggestion": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-26T06:42:37+00:00"
+  },
+  "majority": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-24T11:06:03+00:00"
+  },
+  "practically": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-19T08:41:29+00:00"
+  },
+  "weather": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-29T10:59:26+00:00"
+  },
+  "phenomenon": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-17T12:10:47+00:00"
+  },
+  "message": {
+   "correct": 1,
+   "wrong": 2,
+   "retired": false,
+   "last_seen": "2026-08-29T13:53:51+00:00"
+  },
+  "discussion": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-25T07:24:15+00:00"
+  },
+  "various": {
+   "correct": 3,
+   "wrong": 7,
+   "retired": true,
+   "last_seen": "2026-08-25T01:58:01+00:00"
+  },
+  "excellent": {
+   "correct": 3,
+   "wrong": 6,
+   "retired": true,
+   "last_seen": "2026-08-29T11:40:35+00:00"
+  },
+  "acquire": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-21T09:57:26+00:00"
+  },
+  "Wednesday": {
+   "correct": 1,
+   "wrong": 2,
+   "retired": false,
+   "last_seen": "2026-08-25T02:02:44+00:00"
+  },
+  "reputation": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-17T13:07:57+00:00"
+  },
+  "industry": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-17T13:06:28+00:00"
+  },
+  "lightning": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-31T02:02:07+00:00"
+  },
+  "guarantee": {
+   "correct": 3,
+   "wrong": 7,
+   "retired": true,
+   "last_seen": "2026-08-19T01:52:06+00:00"
+  },
+  "instead": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-31T01:36:57+00:00"
+  },
+  "parallel": {
+   "correct": 3,
+   "wrong": 8,
+   "retired": true,
+   "last_seen": "2026-08-29T11:34:34+00:00"
+  },
+  "laboratory": {
+   "correct": 3,
+   "wrong": 15,
+   "retired": true,
+   "last_seen": "2026-08-29T11:21:36+00:00"
+  },
+  "opposite": {
+   "correct": 3,
+   "wrong": 5,
+   "retired": true,
+   "last_seen": "2026-08-19T08:14:38+00:00"
+  },
+  "emphasis": {
+   "correct": 3,
+   "wrong": 7,
+   "retired": true,
+   "last_seen": "2026-08-19T06:21:35+00:00"
+  },
+  "unnecessary": {
+   "correct": 3,
+   "wrong": 12,
+   "retired": true,
+   "last_seen": "2026-08-25T01:57:33+00:00"
+  },
+  "scheme": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-24T11:29:10+00:00"
+  },
+  "campaign": {
+   "correct": 3,
+   "wrong": 5,
+   "retired": true,
+   "last_seen": "2026-08-19T08:21:52+00:00"
+  },
+  "presence": {
+   "correct": 1,
+   "wrong": 2,
+   "retired": false,
+   "last_seen": "2026-08-31T01:48:42+00:00"
+  },
+  "assistance": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T08:21:10+00:00"
+  },
+  "physical": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-19T08:28:56+00:00"
+  },
+  "commitment": {
+   "correct": 3,
+   "wrong": 8,
+   "retired": true,
+   "last_seen": "2026-08-31T01:55:50+00:00"
+  },
+  "description": {
+   "correct": 3,
+   "wrong": 9,
+   "retired": true,
+   "last_seen": "2026-08-19T08:42:09+00:00"
+  },
+  "community": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-19T08:14:00+00:00"
+  },
+  "arrangement": {
+   "correct": 1,
+   "wrong": 2,
+   "retired": false,
+   "last_seen": "2026-08-31T01:40:19+00:00"
+  },
+  "enormous": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-25T01:56:47+00:00"
+  },
+  "familiar": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-17T13:16:21+00:00"
+  },
+  "yield": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-25T08:05:01+00:00"
+  },
+  "controversial": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-25T08:03:01+00:00"
+  },
+  "withdraw": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-29T11:01:01+00:00"
+  },
+  "disappointed": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-27T09:06:50+00:00"
+  },
+  "correspondence": {
+   "correct": 3,
+   "wrong": 6,
+   "retired": true,
+   "last_seen": "2026-08-17T13:17:53+00:00"
+  },
+  "minority": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T08:30:03+00:00"
+  },
+  "introduce": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-24T11:28:47+00:00"
+  },
+  "responsibility": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T10:54:22+00:00"
+  },
+  "mischievous": {
+   "correct": 3,
+   "wrong": 14,
+   "retired": true,
+   "last_seen": "2026-08-19T08:26:20+00:00"
+  },
+  "benefit": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-19T01:35:33+00:00"
+  },
+  "desperate": {
+   "correct": 3,
+   "wrong": 14,
+   "retired": true,
+   "last_seen": "2026-08-25T01:23:55+00:00"
+  },
+  "publicly": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-17T11:37:59+00:00"
+  },
+  "procedure": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-19T01:47:25+00:00"
+  },
+  "occurrence": {
+   "correct": 3,
+   "wrong": 14,
+   "retired": true,
+   "last_seen": "2026-08-29T12:21:19+00:00"
+  },
+  "atmosphere": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-17T13:19:33+00:00"
+  },
+  "restaurant": {
+   "correct": 3,
+   "wrong": 5,
+   "retired": true,
+   "last_seen": "2026-08-29T11:48:56+00:00"
+  },
+  "organisation": {
+   "correct": 3,
+   "wrong": 13,
+   "retired": true,
+   "last_seen": "2026-08-29T11:39:40+00:00"
+  },
+  "ridiculous": {
+   "correct": 0,
+   "wrong": 5,
+   "retired": false,
+   "last_seen": "2026-08-31T01:55:59+00:00"
+  },
+  "competition": {
+   "correct": 1,
+   "wrong": 2,
+   "retired": false,
+   "last_seen": "2026-08-31T01:52:01+00:00"
+  },
+  "chocolate": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-17T13:18:39+00:00"
+  },
+  "strategy": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-24T08:56:24+00:00"
+  },
+  "definition": {
+   "correct": 3,
+   "wrong": 9,
+   "retired": true,
+   "last_seen": "2026-08-19T08:24:33+00:00"
+  },
+  "foreign": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-25T02:53:21+00:00"
+  },
+  "conclusion": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T08:40:20+00:00"
+  },
+  "vehicle": {
+   "correct": 3,
+   "wrong": 9,
+   "retired": true,
+   "last_seen": "2026-08-29T11:48:25+00:00"
+  },
+  "medicine": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-24T09:01:05+00:00"
+  },
+  "religious": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-19T06:21:43+00:00"
+  },
+  "tourist": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-17T10:53:58+00:00"
+  },
+  "consistent": {
+   "correct": 3,
+   "wrong": 6,
+   "retired": true,
+   "last_seen": "2026-08-25T02:01:39+00:00"
+  },
+  "challenge": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-27T08:54:22+00:00"
+  },
+  "consumption": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T08:49:24+00:00"
+  },
+  "hygiene": {
+   "correct": 3,
+   "wrong": 5,
+   "retired": true,
+   "last_seen": "2026-08-29T13:46:55+00:00"
+  },
+  "writing": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-29T11:07:10+00:00"
+  },
+  "difference": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-19T08:22:00+00:00"
+  },
+  "mortgage": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-17T12:52:45+00:00"
+  },
+  "appropriate": {
+   "correct": 0,
+   "wrong": 5,
+   "retired": false,
+   "last_seen": "2026-08-31T01:48:31+00:00"
+  },
+  "immediately": {
+   "correct": 3,
+   "wrong": 14,
+   "retired": true,
+   "last_seen": "2026-08-25T08:22:38+00:00"
+  },
+  "neighbour": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-25T08:07:56+00:00"
+  },
+  "particularly": {
+   "correct": 3,
+   "wrong": 6,
+   "retired": true,
+   "last_seen": "2026-08-31T01:37:08+00:00"
+  },
+  "leisure": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-19T08:27:57+00:00"
+  },
+  "secretary": {
+   "correct": 3,
+   "wrong": 20,
+   "retired": true,
+   "last_seen": "2026-08-26T06:48:20+00:00"
+  },
+  "permanent": {
+   "correct": 3,
+   "wrong": 14,
+   "retired": true,
+   "last_seen": "2026-08-26T06:36:57+00:00"
+  },
+  "vacuum": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-17T12:56:01+00:00"
+  },
+  "importance": {
+   "correct": 2,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-29T11:34:42+00:00"
+  },
+  "harass": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-19T08:27:32+00:00"
+  },
+  "improvement": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-25T01:21:08+00:00"
+  },
+  "broccoli": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-24T11:25:14+00:00"
+  },
+  "appreciate": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T09:02:17+00:00"
+  },
+  "technology": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-24T08:57:52+00:00"
+  },
+  "though": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-19T01:49:27+00:00"
+  },
+  "conference": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-19T08:41:09+00:00"
+  },
+  "continuous": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-29T12:21:39+00:00"
+  },
+  "assume": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-29T13:47:13+00:00"
+  },
+  "authority": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T11:31:44+00:00"
+  },
+  "height": {
+   "correct": 2,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-29T11:07:53+00:00"
+  },
+  "acknowledge": {
+   "correct": 3,
+   "wrong": 5,
+   "retired": true,
+   "last_seen": "2026-08-24T09:02:04+00:00"
+  },
+  "journey": {
+   "correct": 3,
+   "wrong": 7,
+   "retired": true,
+   "last_seen": "2026-08-25T01:23:25+00:00"
+  },
+  "recommend": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T10:54:09+00:00"
+  },
+  "reference": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-27T08:54:08+00:00"
+  },
+  "category": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-25T01:26:06+00:00"
+  },
+  "adequate": {
+   "correct": 0,
+   "wrong": 5,
+   "retired": false,
+   "last_seen": "2026-08-31T02:00:12+00:00"
+  },
+  "embarrassed": {
+   "correct": 3,
+   "wrong": 15,
+   "retired": true,
+   "last_seen": "2026-08-29T12:24:40+00:00"
+  },
+  "tendency": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-29T11:50:44+00:00"
+  },
+  "performance": {
+   "correct": 3,
+   "wrong": 12,
+   "retired": true,
+   "last_seen": "2026-08-31T01:34:12+00:00"
+  },
+  "register": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-17T11:33:38+00:00"
+  },
+  "traffic": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-27T09:07:22+00:00"
+  },
+  "twelfth": {
+   "correct": 3,
+   "wrong": 6,
+   "retired": true,
+   "last_seen": "2026-08-24T11:08:22+00:00"
+  },
+  "neither": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T11:01:24+00:00"
+  },
+  "transport": {
+   "correct": 3,
+   "wrong": 6,
+   "retired": true,
+   "last_seen": "2026-08-26T07:28:59+00:00"
+  },
+  "sophisticated": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-31T01:53:55+00:00"
+  },
+  "eliminate": {
+   "correct": 0,
+   "wrong": 4,
+   "retired": false,
+   "last_seen": "2026-08-31T01:58:34+00:00"
+  },
+  "repetition": {
+   "correct": 2,
+   "wrong": 2,
+   "retired": false,
+   "last_seen": "2026-08-31T01:55:42+00:00"
+  },
+  "across": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T11:03:51+00:00"
+  },
+  "approximately": {
+   "correct": 3,
+   "wrong": 5,
+   "retired": true,
+   "last_seen": "2026-08-31T01:35:10+00:00"
+  },
+  "psychology": {
+   "correct": 3,
+   "wrong": 10,
+   "retired": true,
+   "last_seen": "2026-08-29T11:39:01+00:00"
+  },
+  "impossible": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T11:38:28+00:00"
+  },
+  "vegetable": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-19T04:13:54+00:00"
+  },
+  "surprise": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-17T12:52:26+00:00"
+  },
+  "anxiety": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-24T09:00:24+00:00"
+  },
+  "constitute": {
+   "correct": 3,
+   "wrong": 9,
+   "retired": true,
+   "last_seen": "2026-08-29T11:35:55+00:00"
+  },
+  "persuade": {
+   "correct": 3,
+   "wrong": 8,
+   "retired": true,
+   "last_seen": "2026-08-25T08:04:39+00:00"
+  },
+  "explanation": {
+   "correct": 3,
+   "wrong": 9,
+   "retired": true,
+   "last_seen": "2026-08-26T06:39:02+00:00"
+  },
+  "queue": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-31T01:57:19+00:00"
+  },
+  "column": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-29T11:49:01+00:00"
+  },
+  "ceiling": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-17T13:15:15+00:00"
+  },
+  "commercial": {
+   "correct": 3,
+   "wrong": 9,
+   "retired": true,
+   "last_seen": "2026-08-31T01:51:56+00:00"
+  },
+  "finally": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-17T12:51:59+00:00"
+  },
+  "maintenance": {
+   "correct": 1,
+   "wrong": 2,
+   "retired": false,
+   "last_seen": "2026-08-29T11:35:35+00:00"
+  },
+  "bureaucracy": {
+   "correct": 3,
+   "wrong": 8,
+   "retired": true,
+   "last_seen": "2026-08-31T01:46:54+00:00"
+  },
+  "threshold": {
+   "correct": 1,
+   "wrong": 2,
+   "retired": false,
+   "last_seen": "2026-08-25T08:30:38+00:00"
+  },
+  "transferred": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-29T11:23:20+00:00"
+  },
+  "cemetery": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-21T09:53:53+00:00"
+  },
+  "pursue": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-25T07:25:53+00:00"
+  },
+  "incidentally": {
+   "correct": 3,
+   "wrong": 11,
+   "retired": true,
+   "last_seen": "2026-08-29T13:51:03+00:00"
+  },
+  "business": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-25T08:33:41+00:00"
+  },
+  "sequence": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-31T01:53:26+00:00"
+  },
+  "sincerely": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-24T08:33:32+00:00"
+  },
+  "negotiate": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-25T07:29:10+00:00"
+  },
+  "opportunity": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-31T01:53:10+00:00"
+  },
+  "thought": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-19T08:17:41+00:00"
+  },
+  "conscience": {
+   "correct": 3,
+   "wrong": 5,
+   "retired": true,
+   "last_seen": "2026-08-19T08:24:22+00:00"
+  },
+  "conscious": {
+   "correct": 3,
+   "wrong": 6,
+   "retired": true,
+   "last_seen": "2026-08-31T01:37:21+00:00"
+  },
+  "modern": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-26T07:30:07+00:00"
+  },
+  "exaggerate": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-25T02:02:12+00:00"
+  },
+  "awkward": {
+   "correct": 0,
+   "wrong": 4,
+   "retired": false,
+   "last_seen": "2026-08-29T13:53:06+00:00"
+  },
+  "successful": {
+   "correct": 3,
+   "wrong": 8,
+   "retired": true,
+   "last_seen": "2026-08-29T11:22:57+00:00"
+  },
+  "analysis": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-26T07:30:10+00:00"
+  },
+  "interpretation": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-25T08:09:53+00:00"
+  },
+  "unfortunately": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-25T01:24:04+00:00"
+  },
+  "requirement": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T12:49:49+00:00"
+  },
+  "equipment": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T13:13:53+00:00"
+  },
+  "language": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-29T11:41:16+00:00"
+  },
+  "decrease": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-25T01:58:39+00:00"
+  },
+  "efficiency": {
+   "correct": 0,
+   "wrong": 2,
+   "retired": false,
+   "last_seen": "2026-08-31T02:02:25+00:00"
+  },
+  "science": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-25T01:24:53+00:00"
+  },
+  "receipt": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-26T06:49:46+00:00"
+  },
+  "democracy": {
+   "correct": 2,
+   "wrong": 5,
+   "retired": false,
+   "last_seen": "2026-08-31T01:59:17+00:00"
+  },
+  "achievement": {
+   "correct": 0,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-31T01:55:27+00:00"
+  },
+  "usually": {
+   "correct": 2,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-24T08:22:55+00:00"
+  },
+  "exercise": {
+   "correct": 3,
+   "wrong": 4,
+   "retired": true,
+   "last_seen": "2026-08-24T09:11:55+00:00"
+  },
+  "exhausted": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-31T01:40:05+00:00"
+  },
+  "rhythm": {
+   "correct": 3,
+   "wrong": 5,
+   "retired": true,
+   "last_seen": "2026-08-25T08:03:58+00:00"
+  },
+  "pollution": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-25T01:57:17+00:00"
+  },
+  "indicate": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T13:05:01+00:00"
+  },
+  "aggressive": {
+   "correct": 3,
+   "wrong": 7,
+   "retired": true,
+   "last_seen": "2026-08-31T01:34:09+00:00"
+  },
+  "individual": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-31T01:41:28+00:00"
+  },
+  "jewellery": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-19T08:25:11+00:00"
+  },
+  "manufacture": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-24T11:25:58+00:00"
+  },
+  "humorous": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-21T09:52:25+00:00"
+  },
+  "fortunately": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-26T06:48:46+00:00"
+  },
+  "criticism": {
+   "correct": 3,
+   "wrong": 8,
+   "retired": true,
+   "last_seen": "2026-08-31T01:41:25+00:00"
+  },
+  "install": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-19T08:36:07+00:00"
+  },
+  "association": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T13:11:23+00:00"
+  },
+  "possibility": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T13:11:27+00:00"
+  },
+  "visible": {
+   "correct": 1,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-29T11:50:40+00:00"
+  },
+  "beneficial": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-24T09:00:45+00:00"
+  },
+  "questionnaire": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-19T08:10:45+00:00"
+  },
+  "integrate": {
+   "correct": 3,
+   "wrong": 10,
+   "retired": true,
+   "last_seen": "2026-08-26T06:38:30+00:00"
+  },
+  "enquiry": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-19T08:25:53+00:00"
+  },
+  "intelligence": {
+   "correct": 3,
+   "wrong": 18,
+   "retired": true,
+   "last_seen": "2026-08-31T01:47:58+00:00"
+  },
+  "interrupt": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-19T06:20:16+00:00"
+  },
+  "knowledge": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-17T13:19:27+00:00"
+  },
+  "university": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-19T01:31:03+00:00"
+  },
+  "sufficient": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-29T11:38:37+00:00"
+  },
+  "noticeable": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-25T08:22:16+00:00"
+  },
+  "confidence": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-29T11:50:36+00:00"
+  },
+  "satellite": {
+   "correct": 3,
+   "wrong": 9,
+   "retired": true,
+   "last_seen": "2026-08-29T12:24:43+00:00"
+  },
+  "impression": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-26T06:46:53+00:00"
+  },
+  "agriculture": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-27T09:08:50+00:00"
+  },
+  "survey": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-19T06:43:29+00:00"
+  },
+  "occasionally": {
+   "correct": 3,
+   "wrong": 11,
+   "retired": true,
+   "last_seen": "2026-08-29T13:45:43+00:00"
+  },
+  "precious": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-31T01:34:03+00:00"
+  },
+  "beautiful": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-29T12:24:57+00:00"
+  },
+  "address": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-25T07:25:39+00:00"
+  },
+  "ancient": {
+   "correct": 2,
+   "wrong": 4,
+   "retired": false,
+   "last_seen": "2026-08-31T02:01:22+00:00"
+  },
+  "licence": {
+   "correct": 3,
+   "wrong": 5,
+   "retired": true,
+   "last_seen": "2026-08-29T11:48:45+00:00"
+  },
+  "separate": {
+   "correct": 3,
+   "wrong": 13,
+   "retired": true,
+   "last_seen": "2026-08-29T11:20:27+00:00"
+  },
+  "especially": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-19T04:11:45+00:00"
+  },
+  "whether": {
+   "correct": 1,
+   "wrong": 4,
+   "retired": false,
+   "last_seen": "2026-08-31T02:00:07+00:00"
+  },
+  "available": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-25T08:05:13+00:00"
+  },
+  "occasion": {
+   "correct": 0,
+   "wrong": 3,
+   "retired": false,
+   "last_seen": "2026-08-31T02:00:42+00:00"
+  },
+  "research": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-27T08:54:40+00:00"
+  },
+  "discipline": {
+   "correct": 0,
+   "wrong": 5,
+   "retired": false,
+   "last_seen": "2026-08-31T02:00:29+00:00"
+  },
+  "strength": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-31T02:01:19+00:00"
+  },
+  "valuable": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-29T12:25:31+00:00"
+  },
+  "announcement": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-25T07:25:47+00:00"
+  },
+  "definitely": {
+   "correct": 0,
+   "wrong": 3,
+   "retired": false,
+   "last_seen": "2026-08-31T01:41:37+00:00"
+  },
+  "temperature": {
+   "correct": 0,
+   "wrong": 5,
+   "retired": false,
+   "last_seen": "2026-08-31T02:00:59+00:00"
+  },
+  "February": {
+   "correct": 3,
+   "wrong": 5,
+   "retired": true,
+   "last_seen": "2026-08-29T12:20:41+00:00"
+  },
+  "extremely": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-31T02:00:50+00:00"
+  },
+  "amateur": {
+   "correct": 0,
+   "wrong": 2,
+   "retired": false,
+   "last_seen": "2026-08-31T01:56:49+00:00"
+  },
+  "committee": {
+   "correct": 2,
+   "wrong": 5,
+   "retired": false,
+   "last_seen": "2026-08-31T02:01:14+00:00"
+  },
+  "technique": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-25T08:33:18+00:00"
+  },
+  "characteristic": {
+   "correct": 3,
+   "wrong": 6,
+   "retired": true,
+   "last_seen": "2026-08-29T11:24:33+00:00"
+  },
+  "although": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-31T01:51:50+00:00"
+  },
+  "implement": {
+   "correct": 3,
+   "wrong": 8,
+   "retired": true,
+   "last_seen": "2026-08-31T01:55:34+00:00"
+  },
+  "advertisement": {
+   "correct": 0,
+   "wrong": 4,
+   "retired": false,
+   "last_seen": "2026-08-31T01:59:24+00:00"
+  },
+  "percentage": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-21T09:54:24+00:00"
+  },
+  "schedule": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-31T01:40:01+00:00"
+  },
+  "identify": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-24T11:05:14+00:00"
+  },
+  "colleague": {
+   "correct": 2,
+   "wrong": 4,
+   "retired": false,
+   "last_seen": "2026-08-31T02:00:54+00:00"
+  },
+  "balance": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-24T08:23:26+00:00"
+  },
+  "Mediterranean": {
+   "correct": 1,
+   "wrong": 4,
+   "retired": false,
+   "last_seen": "2026-08-31T01:56:43+00:00"
+  },
+  "similar": {
+   "correct": 2,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-25T08:24:13+00:00"
+  },
+  "communication": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-29T11:11:36+00:00"
+  },
+  "architecture": {
+   "correct": 3,
+   "wrong": 9,
+   "retired": true,
+   "last_seen": "2026-08-31T02:02:20+00:00"
+  },
+  "potential": {
+   "correct": 0,
+   "wrong": 4,
+   "retired": false,
+   "last_seen": "2026-08-31T02:02:13+00:00"
+  },
+  "distinguish": {
+   "correct": 3,
+   "wrong": 3,
+   "retired": true,
+   "last_seen": "2026-08-29T11:25:39+00:00"
+  },
+  "demonstrate": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-25T07:24:52+00:00"
+  },
+  "career": {
+   "correct": 1,
+   "wrong": 2,
+   "retired": false,
+   "last_seen": "2026-08-31T01:56:06+00:00"
+  },
+  "supplement": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-26T06:42:42+00:00"
+  },
+  "curriculum": {
+   "correct": 0,
+   "wrong": 7,
+   "retired": false,
+   "last_seen": "2026-08-31T01:56:22+00:00"
+  },
+  "forty": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-26T06:39:37+00:00"
+  },
+  "professional": {
+   "correct": 0,
+   "wrong": 2,
+   "retired": false,
+   "last_seen": "2026-08-31T02:01:49+00:00"
+  },
+  "illustrate": {
+   "correct": 0,
+   "wrong": 2,
+   "retired": false,
+   "last_seen": "2026-08-31T02:01:27+00:00"
+  },
+  "decision": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-24T09:11:18+00:00"
+  },
+  "argument": {
+   "correct": 2,
+   "wrong": 4,
+   "retired": false,
+   "last_seen": "2026-08-31T01:52:15+00:00"
+  },
+  "generation": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-31T01:52:29+00:00"
+  },
+  "employee": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-29T11:34:09+00:00"
+  },
+  "existence": {
+   "correct": 1,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-29T11:20:19+00:00"
+  },
+  "purchase": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-25T01:58:25+00:00"
+  },
+  "fundamental": {
+   "correct": 1,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-31T01:48:25+00:00"
+  },
+  "behaviour": {
+   "correct": 3,
+   "wrong": 2,
+   "retired": true,
+   "last_seen": "2026-08-31T01:52:39+00:00"
+  },
+  "independent": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-26T06:45:22+00:00"
+  },
+  "perseverance": {
+   "correct": 1,
+   "wrong": 3,
+   "retired": false,
+   "last_seen": "2026-08-31T01:55:38+00:00"
+  },
+  "environment": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-31T01:52:22+00:00"
+  },
+  "government": {
+   "correct": 3,
+   "wrong": 1,
+   "retired": true,
+   "last_seen": "2026-08-29T12:20:36+00:00"
+  },
+  "gradually": {
+   "correct": 1,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-31T01:37:46+00:00"
+  },
+  "interesting": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-29T11:10:02+00:00"
+  },
+  "innovative": {
+   "correct": 1,
+   "wrong": 5,
+   "retired": false,
+   "last_seen": "2026-08-31T02:00:02+00:00"
+  },
+  "society": {
+   "correct": 0,
+   "wrong": 4,
+   "retired": false,
+   "last_seen": "2026-08-31T02:02:42+00:00"
+  },
+  "considerable": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-26T06:42:27+00:00"
+  },
+  "relevant": {
+   "correct": 1,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-26T07:29:28+00:00"
+  },
+  "whole": {
+   "correct": 0,
+   "wrong": 2,
+   "retired": false,
+   "last_seen": "2026-08-31T02:02:33+00:00"
+  },
+  "therefore": {
+   "correct": 2,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-29T11:11:31+00:00"
+  },
+  "eighth": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-27T09:06:18+00:00"
+  },
+  "miniature": {
+   "correct": 2,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-29T12:22:04+00:00"
+  },
+  "complete": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-29T11:05:52+00:00"
+  },
+  "marriage": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-29T11:07:17+00:00"
+  },
+  "furthermore": {
+   "correct": 0,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-31T01:36:37+00:00"
+  },
+  "global": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-29T11:08:06+00:00"
+  },
+  "cognitive": {
+   "correct": 3,
+   "wrong": 0,
+   "retired": true,
+   "last_seen": "2026-08-29T12:22:08+00:00"
+  },
+  "resource": {
+   "correct": 0,
+   "wrong": 2,
+   "retired": false,
+   "last_seen": "2026-08-29T13:53:31+00:00"
+  },
+  "receive": {
+   "correct": 0,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-29T13:46:18+00:00"
+  },
+  "disappear": {
+   "correct": 1,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-31T02:02:05+00:00"
+  },
+  "necessary": {
+   "correct": 1,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-31T01:55:24+00:00"
+  },
+  "vegetarian": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-31T01:38:36+00:00"
+  },
+  "contemporary": {
+   "correct": 0,
+   "wrong": 1,
+   "retired": false,
+   "last_seen": "2026-08-31T01:46:46+00:00"
+  },
+  "snake": {
+   "correct": 1,
+   "wrong": 0,
+   "retired": false,
+   "last_seen": "2026-08-31T01:52:57+00:00"
+  }
+ },
+ "sessions": [
+  {
+   "when": "2026-08-17T07:54:54+00:00",
+   "asked": 20,
+   "correct": 6,
+   "seconds": 157
+  },
+  {
+   "when": "2026-08-17T08:06:28+00:00",
+   "asked": 20,
+   "correct": 8,
+   "seconds": 172
+  },
+  {
+   "when": "2026-08-17T08:10:55+00:00",
+   "asked": 20,
+   "correct": 10,
+   "seconds": 189
+  },
+  {
+   "when": "2026-08-17T08:14:26+00:00",
+   "asked": 20,
+   "correct": 10,
+   "seconds": 163
+  },
+  {
+   "when": "2026-08-17T08:18:03+00:00",
+   "asked": 20,
+   "correct": 12,
+   "seconds": 205
+  },
+  {
+   "when": "2026-08-17T08:23:01+00:00",
+   "asked": 20,
+   "correct": 8,
+   "seconds": 258
+  },
+  {
+   "when": "2026-08-17T08:31:07+00:00",
+   "asked": 20,
+   "correct": 11,
+   "seconds": 242
+  },
+  {
+   "when": "2026-08-17T08:36:28+00:00",
+   "asked": 20,
+   "correct": 8,
+   "seconds": 309
+  },
+  {
+   "when": "2026-08-17T08:40:51+00:00",
+   "asked": 20,
+   "correct": 7,
+   "seconds": 230
+  },
+  {
+   "when": "2026-08-17T08:45:01+00:00",
+   "asked": 20,
+   "correct": 8,
+   "seconds": 233
+  },
+  {
+   "when": "2026-08-17T08:51:02+00:00",
+   "asked": 20,
+   "correct": 3,
+   "seconds": 321
+  },
+  {
+   "when": "2026-08-17T09:02:39+00:00",
+   "asked": 20,
+   "correct": 10,
+   "seconds": 299
+  },
+  {
+   "when": "2026-08-17T09:51:36+00:00",
+   "asked": 20,
+   "correct": 11,
+   "seconds": 226
+  },
+  {
+   "when": "2026-08-17T10:57:50+00:00",
+   "asked": 20,
+   "correct": 11,
+   "seconds": 267
+  },
+  {
+   "when": "2026-08-17T11:01:30+00:00",
+   "asked": 20,
+   "correct": 8,
+   "seconds": 196
+  },
+  {
+   "when": "2026-08-17T11:05:04+00:00",
+   "asked": 20,
+   "correct": 11,
+   "seconds": 208
+  },
+  {
+   "when": "2026-08-17T11:08:29+00:00",
+   "asked": 20,
+   "correct": 10,
+   "seconds": 201
+  },
+  {
+   "when": "2026-08-17T11:29:29+00:00",
+   "asked": 20,
+   "correct": 9,
+   "seconds": 202
+  },
+  {
+   "when": "2026-08-17T11:33:17+00:00",
+   "asked": 20,
+   "correct": 9,
+   "seconds": 205
+  },
+  {
+   "when": "2026-08-17T11:36:38+00:00",
+   "asked": 20,
+   "correct": 12,
+   "seconds": 182
+  },
+  {
+   "when": "2026-08-17T11:39:45+00:00",
+   "asked": 20,
+   "correct": 11,
+   "seconds": 142
+  },
+  {
+   "when": "2026-08-17T12:11:26+00:00",
+   "asked": 20,
+   "correct": 6,
+   "seconds": 200
+  },
+  {
+   "when": "2026-08-17T12:19:32+00:00",
+   "asked": 20,
+   "correct": 7,
+   "seconds": 190
+  },
+  {
+   "when": "2026-08-17T12:50:12+00:00",
+   "asked": 20,
+   "correct": 9,
+   "seconds": 184
+  },
+  {
+   "when": "2026-08-17T12:52:45+00:00",
+   "asked": 20,
+   "correct": 13,
+   "seconds": 147
+  },
+  {
+   "when": "2026-08-17T12:57:33+00:00",
+   "asked": 20,
+   "correct": 8,
+   "seconds": 173
+  },
+  {
+   "when": "2026-08-17T13:06:10+00:00",
+   "asked": 20,
+   "correct": 5,
+   "seconds": 229
+  },
+  {
+   "when": "2026-08-17T13:09:01+00:00",
+   "asked": 20,
+   "correct": 12,
+   "seconds": 156
+  },
+  {
+   "when": "2026-08-17T13:11:40+00:00",
+   "asked": 20,
+   "correct": 12,
+   "seconds": 136
+  },
+  {
+   "when": "2026-08-17T13:14:30+00:00",
+   "asked": 20,
+   "correct": 10,
+   "seconds": 164
+  },
+  {
+   "when": "2026-08-17T13:17:12+00:00",
+   "asked": 20,
+   "correct": 12,
+   "seconds": 155
+  },
+  {
+   "when": "2026-08-17T13:19:52+00:00",
+   "asked": 20,
+   "correct": 14,
+   "seconds": 155
+  },
+  {
+   "when": "2026-08-19T01:34:17+00:00",
+   "asked": 20,
+   "correct": 8,
+   "seconds": 201
+  },
+  {
+   "when": "2026-08-19T01:38:49+00:00",
+   "asked": 20,
+   "correct": 9,
+   "seconds": 263
+  },
+  {
+   "when": "2026-08-19T01:49:17+00:00",
+   "asked": 20,
+   "correct": 7,
+   "seconds": 204
+  },
+  {
+   "when": "2026-08-19T01:52:51+00:00",
+   "asked": 20,
+   "correct": 9,
+   "seconds": 209
+  },
+  {
+   "when": "2026-08-19T02:01:57+00:00",
+   "asked": 20,
+   "correct": 4,
+   "seconds": 269
+  },
+  {
+   "when": "2026-08-19T04:08:57+00:00",
+   "asked": 20,
+   "correct": 2,
+   "seconds": 225
+  },
+  {
+   "when": "2026-08-19T04:13:59+00:00",
+   "asked": 20,
+   "correct": 9,
+   "seconds": 163
+  },
+  {
+   "when": "2026-08-19T06:21:43+00:00",
+   "asked": 20,
+   "correct": 13,
+   "seconds": 201
+  },
+  {
+   "when": "2026-08-19T06:40:48+00:00",
+   "asked": 20,
+   "correct": 8,
+   "seconds": 181
+  },
+  {
+   "when": "2026-08-19T06:44:08+00:00",
+   "asked": 20,
+   "correct": 11,
+   "seconds": 194
+  },
+  {
+   "when": "2026-08-19T06:47:18+00:00",
+   "asked": 20,
+   "correct": 10,
+   "seconds": 184
+  },
+  {
+   "when": "2026-08-19T06:50:48+00:00",
+   "asked": 20,
+   "correct": 9,
+   "seconds": 204
+  },
+  {
+   "when": "2026-08-19T08:13:05+00:00",
+   "asked": 20,
+   "correct": 9,
+   "seconds": 169
+  },
+  {
+   "when": "2026-08-19T08:16:00+00:00",
+   "asked": 20,
+   "correct": 12,
+   "seconds": 170
+  },
+  {
+   "when": "2026-08-19T08:19:14+00:00",
+   "asked": 20,
+   "correct": 11,
+   "seconds": 188
+  },
+  {
+   "when": "2026-08-19T08:22:00+00:00",
+   "asked": 20,
+   "correct": 11,
+   "seconds": 161
+  },
+  {
+   "when": "2026-08-19T08:26:59+00:00",
+   "asked": 20,
+   "correct": 10,
+   "seconds": 169
+  },
+  {
+   "when": "2026-08-19T08:31:40+00:00",
+   "asked": 20,
+   "correct": 10,
+   "seconds": 252
+  },
+  {
+   "when": "2026-08-19T08:34:50+00:00",
+   "asked": 20,
+   "correct": 10,
+   "seconds": 182
+  },
+  {
+   "when": "2026-08-19T08:38:11+00:00",
+   "asked": 20,
+   "correct": 11,
+   "seconds": 174
+  },
+  {
+   "when": "2026-08-19T08:41:54+00:00",
+   "asked": 20,
+   "correct": 11,
+   "seconds": 164
+  },
+  {
+   "when": "2026-08-19T08:45:06+00:00",
+   "asked": 20,
+   "correct": 13,
+   "seconds": 187
+  },
+  {
+   "when": "2026-08-21T09:55:22+00:00",
+   "asked": 20,
+   "correct": 8,
+   "seconds": 231
+  },
+  {
+   "when": "2026-08-24T08:25:15+00:00",
+   "asked": 20,
+   "correct": 7,
+   "seconds": 249
+  },
+  {
+   "when": "2026-08-24T08:36:13+00:00",
+   "asked": 20,
+   "correct": 10,
+   "seconds": 326
+  },
+  {
+   "when": "2026-08-24T08:59:07+00:00",
+   "asked": 20,
+   "correct": 8,
+   "seconds": 220
+  },
+  {
+   "when": "2026-08-24T09:02:36+00:00",
+   "asked": 20,
+   "correct": 11,
+   "seconds": 204
+  },
+  {
+   "when": "2026-08-24T09:13:10+00:00",
+   "asked": 20,
+   "correct": 8,
+   "seconds": 219
+  },
+  {
+   "when": "2026-08-24T11:06:18+00:00",
+   "asked": 20,
+   "correct": 9,
+   "seconds": 207
+  },
+  {
+   "when": "2026-08-24T11:09:42+00:00",
+   "asked": 20,
+   "correct": 10,
+   "seconds": 199
+  },
+  {
+   "when": "2026-08-24T11:27:15+00:00",
+   "asked": 20,
+   "correct": 13,
+   "seconds": 150
+  },
+  {
+   "when": "2026-08-24T11:30:45+00:00",
+   "asked": 20,
+   "correct": 12,
+   "seconds": 202
+  },
+  {
+   "when": "2026-08-25T01:23:44+00:00",
+   "asked": 20,
+   "correct": 12,
+   "seconds": 208
+  },
+  {
+   "when": "2026-08-25T01:26:42+00:00",
+   "asked": 20,
+   "correct": 11,
+   "seconds": 172
+  },
+  {
+   "when": "2026-08-25T01:58:39+00:00",
+   "asked": 20,
+   "correct": 15,
+   "seconds": 158
+  },
+  {
+   "when": "2026-08-25T02:03:48+00:00",
+   "asked": 20,
+   "correct": 7,
+   "seconds": 284
+  },
+  {
+   "when": "2026-08-25T02:53:26+00:00",
+   "asked": 20,
+   "correct": 8,
+   "seconds": 222
+  },
+  {
+   "when": "2026-08-25T07:26:42+00:00",
+   "asked": 20,
+   "correct": 11,
+   "seconds": 175
+  },
+  {
+   "when": "2026-08-25T07:30:30+00:00",
+   "asked": 20,
+   "correct": 11,
+   "seconds": 215
+  },
+  {
+   "when": "2026-08-25T07:35:27+00:00",
+   "asked": 20,
+   "correct": 7,
+   "seconds": 208
+  },
+  {
+   "when": "2026-08-25T08:05:25+00:00",
+   "asked": 20,
+   "correct": 14,
+   "seconds": 150
+  },
+  {
+   "when": "2026-08-25T08:10:04+00:00",
+   "asked": 20,
+   "correct": 12,
+   "seconds": 190
+  },
+  {
+   "when": "2026-08-25T08:25:50+00:00",
+   "asked": 20,
+   "correct": 7,
+   "seconds": 256
+  },
+  {
+   "when": "2026-08-25T08:34:06+00:00",
+   "asked": 20,
+   "correct": 8,
+   "seconds": 253
+  },
+  {
+   "when": "2026-08-26T06:39:07+00:00",
+   "asked": 20,
+   "correct": 10,
+   "seconds": 241
+  },
+  {
+   "when": "2026-08-26T06:42:42+00:00",
+   "asked": 20,
+   "correct": 13,
+   "seconds": 190
+  },
+  {
+   "when": "2026-08-26T06:49:46+00:00",
+   "asked": 20,
+   "correct": 11,
+   "seconds": 273
+  },
+  {
+   "when": "2026-08-26T07:32:03+00:00",
+   "asked": 20,
+   "correct": 12,
+   "seconds": 198
+  },
+  {
+   "when": "2026-08-27T08:55:01+00:00",
+   "asked": 20,
+   "correct": 5,
+   "seconds": 257
+  },
+  {
+   "when": "2026-08-27T09:09:29+00:00",
+   "asked": 20,
+   "correct": 13,
+   "seconds": 225
+  },
+  {
+   "when": "2026-08-29T11:02:14+00:00",
+   "asked": 20,
+   "correct": 9,
+   "seconds": 226
+  },
+  {
+   "when": "2026-08-29T11:09:02+00:00",
+   "asked": 20,
+   "correct": 13,
+   "seconds": 214
+  },
+  {
+   "when": "2026-08-29T11:11:50+00:00",
+   "asked": 20,
+   "correct": 13,
+   "seconds": 152
+  },
+  {
+   "when": "2026-08-29T11:23:36+00:00",
+   "asked": 20,
+   "correct": 12,
+   "seconds": 263
+  },
+  {
+   "when": "2026-08-29T11:28:21+00:00",
+   "asked": 20,
+   "correct": 12,
+   "seconds": 274
+  },
+  {
+   "when": "2026-08-29T11:35:40+00:00",
+   "asked": 20,
+   "correct": 10,
+   "seconds": 430
+  },
+  {
+   "when": "2026-08-29T11:38:37+00:00",
+   "asked": 20,
+   "correct": 16,
+   "seconds": 166
+  },
+  {
+   "when": "2026-08-29T11:41:52+00:00",
+   "asked": 20,
+   "correct": 15,
+   "seconds": 184
+  },
+  {
+   "when": "2026-08-29T11:50:44+00:00",
+   "asked": 20,
+   "correct": 13,
+   "seconds": 200
+  },
+  {
+   "when": "2026-08-29T12:22:16+00:00",
+   "asked": 20,
+   "correct": 18,
+   "seconds": 172
+  },
+  {
+   "when": "2026-08-29T12:48:27+00:00",
+   "asked": 20,
+   "correct": 15,
+   "seconds": 1442
+  },
+  {
+   "when": "2026-08-29T13:47:37+00:00",
+   "asked": 20,
+   "correct": 10,
+   "seconds": 155
+  },
+  {
+   "when": "2026-08-29T13:53:51+00:00",
+   "asked": 20,
+   "correct": 11,
+   "seconds": 189
+  },
+  {
+   "when": "2026-08-31T01:35:46+00:00",
+   "asked": 20,
+   "correct": 10,
+   "seconds": 568
+  },
+  {
+   "when": "2026-08-31T01:40:05+00:00",
+   "asked": 20,
+   "correct": 13,
+   "seconds": 241
+  },
+  {
+   "when": "2026-08-31T01:42:59+00:00",
+   "asked": 20,
+   "correct": 12,
+   "seconds": 163
+  },
+  {
+   "when": "2026-08-31T01:49:00+00:00",
+   "asked": 20,
+   "correct": 13,
+   "seconds": 165
+  },
+  {
+   "when": "2026-08-31T01:53:55+00:00",
+   "asked": 20,
+   "correct": 16,
+   "seconds": 142
+  },
+  {
+   "when": "2026-08-31T01:59:45+00:00",
+   "asked": 20,
+   "correct": 13,
+   "seconds": 268
+  },
+  {
+   "when": "2026-08-31T02:02:44+00:00",
+   "asked": 20,
+   "correct": 10,
+   "seconds": 166
+  }
+ ]
+}
