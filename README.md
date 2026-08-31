@@ -1,6 +1,6 @@
 # IELTS Spelling Trainer
 
-I was preparing my IELTS test and because I learn my English in a non-academy way, spelling turned out to be my weakness. I create this tool with the most mispelled words in the word in the json, to practise spelling, hope this can be helpful to you too.
+I was preparing my IELTS test and because I learn my English in a non-academy way, spelling turned out to be my weakness. I create this tool with the most mispelled words counted by IELTS in the json, to practise spelling, hope this can be helpful to you too.
 
 A command-line dictation drill. The computer says a word, you type it, it tells
 you whether you were right and keeps score. Words you spell correctly three
